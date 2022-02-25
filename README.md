@@ -1,0 +1,2 @@
+# amplifyApp
+Amplify consol demo
